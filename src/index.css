@@ -11,7 +11,7 @@ h1.intro{
 
 h2.explain{
   text-align: center;
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: ivory;
   border-radius: 5px;
   border: 2px solid ivory; 
@@ -93,8 +93,16 @@ h1.projectHeader{
 
 }
 
-button{
-  font-size: 1.5rem;
+h2.link{
+  font-size: 2rem;
   color: black; 
+  text-align: center;
+  background: ivory;
+}
 
+h2.linkedIn{
+  font-size: 2rem;
+  color: black;
+  background: rgb(165, 141, 145);
+  text-align: center;
 }
