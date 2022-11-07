@@ -5,6 +5,7 @@ function ProjectList({projects}){
     
     return (
         <section className="hero">
+            <h1 className="projectHeader">My Projects</h1>
             <div className="container">
                 <Project projects={projects}/>
              </div>
