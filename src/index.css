@@ -1,13 +1,125 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: rgb(165, 141, 145);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1.intro{
+  text-align: center;
+  font-size: 5rem;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+h2.explain{
+  text-align: center;
+  font-size: 2rem;
+  color: ivory;
+  border-radius: 5px;
+  border: 2px solid ivory; 
+}
+
+.skills__list {
+  max-width: 450px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 40px solid ivory;
+
+}
+
+h1.resume{
+  font-size: 5rem;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.res{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.bio{
+  font-size: 1.2rem;
+  text-align: center;
+  font-style: italic;
+}
+
+section {
+  width: 100%; 
+  min-height: 100vh;
+  display: flex; 
+}
+
+.container {
+  width: 100%; 
+  max-width: 980px;
+  margin: auto; 
+}
+
+
+.hero .container{
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card{
+  width: 800px; 
+  height: 500px;
+  background: ivory;
+  color: black;
+  padding: 40px; 
+  margin: 30px 0; 
+}
+
+.cards h1 {
+  font-size: 30px;
+}
+
+
+.card a:hover{
+  background: white;
+}
+
+* {
+  box-sizing: border-box; 
+}
+
+h1.card1{
+  font-size: 2rem;
+  text-align: center;
+  border: 3px solid black; 
+  font-style: normal;
+}
+
+h2.card2{
+  font-size: 1.5rem;
+  text-align: center;
+  font-style: oblique;
+}
+
+.cardPic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button{
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  margin: 0;
+
 }

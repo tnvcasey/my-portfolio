@@ -1,0 +1,19 @@
+import React from "react";
+import { Link } from "react-router-dom"
+
+function Project({projects}){
+    return(
+       <>
+       {projects.map((project) => (
+           <div className="card">
+               <h1 className="card1">{project.name}</h1>
+               <h2 className="card2">{project.description}</h2>
+               <img className="cardPic" src={project.image} width="200px" height="200px" /><br/>
+               <button className="button">View Project</button>
+           </div>
+       ))}
+       </>
+    )
+}
+
+export default Project; 
