@@ -60,7 +60,7 @@ p.bio{
 
 .card{
   width: 800px; 
-  height: 500px;
+  height: 550px;
   background: ivory;
   color: black;
   padding: 40px; 
@@ -90,5 +90,11 @@ h1.projectHeader{
   font-size: 5rem;
   text-align: center;
   border: 2px solid black;
+
+}
+
+button{
+  font-size: 1.5rem;
+  color: black; 
 
 }

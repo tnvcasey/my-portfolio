@@ -9,7 +9,7 @@ function Project({projects}){
                <h1 className="card1">{project.name}</h1>
                <h2 className="card2">{project.description}</h2>
                <img className="cardPic" src={project.image} width="300px" height="300px" /><br/>
-               <button className="button">View Project</button>
+               <button className="button"><Link className="view" to={project.href}>View Project</Link></button>
            </div>
        ))}
        </>
