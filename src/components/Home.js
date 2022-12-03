@@ -3,7 +3,7 @@ function Home(){
         <div>
             <h1 className="intro">Hi, my name is Taylor!</h1>
             <h2 className="explain">Full Stack Developer | Mom | Diet Coke Enthusiast</h2>
-            <p className="bio">I'm a junior full stack developer newly graduated from Flatiron School.</p>
+            <p className="bio">I'm a full stack developer newly graduated from Flatiron School.</p>
             <p className="bio">I specialize in React and Ruby applications.</p>
             <p className="bio">I'm dedicated to continuous learning and contributing to the world of tech!</p>
             <p className="bio">Thanks for checking out my portfolio!</p>
