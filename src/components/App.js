@@ -21,7 +21,7 @@ function App(){
             name: "Memory Tracker", 
             description: "An application to help you hang on to those family memories! Created with a React frontend and a Rails backend, this app showcases full C.R.U.D capabilities. ",
             image: "https://tse1.mm.bing.net/th?id=OIP.G8tBcAWXGRQrMBbimY-VNgHaHa&pid=Api&P=0",
-            link: "https://memorytrackerreact.netlify.app/"
+            link: "https://pure-earth-70536.herokuapp.com/"
         }, 
         {
             id: 3, 
