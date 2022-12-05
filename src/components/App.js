@@ -28,7 +28,7 @@ function App(){
             name: "Chore Board", 
             description: "An application that keeps your family members informed of their chores. Created with a React frontend and a Rails backend, this app showcases full C.R.U.D capabilities, authentication, and authorization. ", 
             image: "https://www.superhealthykids.com/wp-content/uploads/2019/08/il_fullxfull.1978948793_112r.jpg", 
-            link: "https://familychorechart.netlify.app/"
+            link: "https://secret-island-48967.herokuapp.com/"
         }
     ]
 
