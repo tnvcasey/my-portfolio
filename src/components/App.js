@@ -11,7 +11,7 @@ function App(){
     const projects = [
         {
             id: 1, 
-            name: "Greeky Mythology", 
+            name: "Greek Mythology", 
             description: "An application for the ancient Greece lover! Created with a React frontend and a Rails backend, this app allows you to add/delete your favorite greek characters and information about them.",
             image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/319509687_2035394189994137_3505637945790826824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=NK0QNkIC8PYAX9HBObF&_nc_ht=scontent-den4-1.xx&oh=00_AfDAlymoLqcS0DSAIGMvZlhK7MdM-XGg6vCM0sNm5eusPw&oe=639A847E", 
             link: "https://greekfrontend.herokuapp.com/"
