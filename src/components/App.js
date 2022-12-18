@@ -29,6 +29,13 @@ function App(){
             description: "A real estate app that lets you post the lesser known, but just as important, details before puschasing a home. This app focuses on authentication, and authorization through a Rails backend, and uses a React JS frontend. ", 
             image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/319447671_2035393966660826_3990185311603833727_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=eufGVH7K4QAAX8MWN55&_nc_ht=scontent-den4-1.xx&oh=00_AfDD0HSOdp00C_yJQvhLp1CUS138RZeZrwDTiwiI2uCYYA&oe=63A2D0E4", 
             link: "https://damp-beyond-33023.herokuapp.com/"
+        },
+        {
+            id: 4, 
+            name: "Sam's Sweet Shop", 
+            description: "A simpole sweet shop app dislpaying your favorite sweets! Created with a React JS frontend and a Rails backend.",
+            image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/320173013_514633007396705_3079855972047229465_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=vWvQVvAfv7MAX8sKNLT&_nc_ht=scontent-den4-1.xx&oh=00_AfCLQ8Udd9xNmjEHWMCxWKqqJHx9mNPTE4eitjy4Z9GIWA&oe=63A2D691",
+            link: "https://powerful-forest-01461.herokuapp.com/"
         }
     ]
 
