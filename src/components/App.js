@@ -20,7 +20,7 @@ function App(){
             id: 2, 
             name: "Memory Tracker", 
             description: "An application to help you hang on to those family memories! Created with a React JS frontend and a Rails backend, this app showcases full C.R.U.D capabilities. ",
-            image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/319502108_2035394359994120_2079325722534895815_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=wii97nHs4wsAX-wHsbH&_nc_ht=scontent-den4-1.xx&oh=00_AfDH2GVEgCi5DHe35Gzfn29aphr1Pj8PvYpJN9er-WSLMQ&oe=63A27CC0",
+            image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/320371343_3308122202836045_5509182610536722144_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=SDeJbiJ3e6gAX_Vt72W&_nc_ht=scontent-den4-1.xx&oh=00_AfD-lJftCyN7Ag1xoLYsNrFoEs1rn58spJ9CRmPQZN9Huw&oe=63A4694A",
             link: "https://pure-earth-70536.herokuapp.com/"
         }, 
         {
