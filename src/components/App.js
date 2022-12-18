@@ -27,7 +27,7 @@ function App(){
             id: 3, 
             name: "The Informer", 
             description: "A real estate app that lets you post the lesser known, but just as important, details before puschasing a home. This app focuses on authentication, and authorization through a Rails backend, and uses a React JS frontend. ", 
-            image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/319447671_2035393966660826_3990185311603833727_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=eufGVH7K4QAAX8MWN55&_nc_ht=scontent-den4-1.xx&oh=00_AfDD0HSOdp00C_yJQvhLp1CUS138RZeZrwDTiwiI2uCYYA&oe=63A2D0E4", 
+            image: "https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/320059980_673197777684409_1140011154830140851_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=uAs7EwzxZXMAX9d2pjo&_nc_ht=scontent-den4-1.xx&oh=00_AfBnZw78UzdGyeHtZC3pn-SyDWGIEH9A5dSLICuZ98qYIA&oe=63A3E046", 
             link: "https://damp-beyond-33023.herokuapp.com/"
         },
         {
