@@ -7,7 +7,7 @@ function Home(){
             <p className="bio">I specialize in JavaScript and Ruby applications.</p>
             <p className="bio">I'm dedicated to continuous learning and contributing to the world of tech!</p>
             <p className="bio">Thanks for checking out my portfolio!</p>
-            <img src="https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/318347470_2029479673918922_2634484046568680005_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=a7JtX0AMwJAAX8WNDVM&_nc_ht=scontent-den4-1.xx&oh=00_AfC4oOlP2Bz1V5UvMe1RdjIKFcgaFgQZJcdxWzPbdLHnug&oe=63A41E35" width="400px" height="500px" className="center" />
+            <img src="https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/318347470_2029479673918922_2634484046568680005_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=mnPHj-xYqmwAX_DnVA6&_nc_ht=scontent-den4-1.xx&oh=00_AfCJ5JC0EUMS1qD2FrL2-uTjezA_F_VCGhVXmr7T6-d87A&oe=63AC0735" width="400px" height="500px" className="center" />
         </div>
     )
 }
